@@ -1,4 +1,4 @@
-First download the backup file from the link provided 
+First download the backup file from the link provided below
 https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
 Then take the backup file in the sql server , upload it. 
 Select to see the base tables. 
